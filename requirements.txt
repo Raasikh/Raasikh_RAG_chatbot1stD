@@ -1,7 +1,8 @@
 streamlit
+openai>=1.0.0
 langchain
-langchain-community
 langchain-core
-sentence-transformers
+langchain-community
 faiss-cpu
-requests
+sentence-transformers
+
